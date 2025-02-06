@@ -1,0 +1,1 @@
+python analyze.py > log.txt 2>&1
